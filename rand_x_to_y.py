@@ -1,5 +1,4 @@
-# Expand a random range from 1-5 to 1-7
-# http://stackoverflow.com/questions/137783
+# Convert a random range from 1-x to 1-y
 
 import sys
 import random
